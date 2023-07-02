@@ -6,4 +6,4 @@
 4. For testing purpose you can simply use the following command bu first you have to download the yolo-weights file from the below drive link and save it in the yolo-coco directory 
 
 COMMAND: - `python detector.py --input pedestrians.mp4 --output output.avi --display 1` <br>
-[YOLO-WEIGHTS DOWNLOAD LINK](https://drive.google.com/drive/folders/12da7rAzbRSsCgwL5u6KMPOFWmJ8Pw92-?usp=sharing)
+[YOLO-WEIGHTS DOWNLOAD LINK](https://drive.google.com/drive/folders/197lGZAEcf_4QYYSXqGTLI0o9Am9hwdy1)
